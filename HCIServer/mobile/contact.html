@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html ng-app="gamesApp">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ReGames</title>
+    <link rel="stylesheet" type="text/css" href="css/styling.css">
+    <link href="https://fonts.googleapis.com/css?family=Play&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
+          integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+    <script src="/shared/js/angular.min.js"></script>
+    <script src="app/app.module.js"></script>
+    <script src="app/games-list/games-list.module.js"></script>
+    <script src="app/games-list/games-list.component.js"></script>
+</head>
+<body>
+<div class="nav_bar" id="nav_top">
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()"><i class="fa fa-bars"></i></a>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="reviews.html">Game Reviews</a>
+    <a class="active" href="contact.html">Contact Us</a>
+</div>
+<div class="contact_top">
+    <strong>Contact us</strong>
+</div>
+
+<div class="contact_content">
+    <form id="contact_form" action="contact.html">
+        <div class="contact_box">
+            <div class="name_label"><label for="name">Name:</label></div>
+            <div class="name_input"><input id="name" type="text" required></div>
+            <div class="email_label"><label for="email">Email:</label></div>
+            <div class="email_input"><input id="email" type="email" required></div>
+            <div class="message_label"><label for="message">Message:</label></div>
+            <div class="message_input"><textarea name="message" id="message" required></textarea></div>
+            <div></div>
+            <div class="button_input"><input id="send_btn" type="submit" value="Send" onclick="alertMessage()"></div>
+        </div>
+    </form>
+    <div class="address">
+        <div>Our Address</div>
+        <div>Ben Gurion st. 100</div>
+        <div>Beer Sheva</div>
+        <div>Israel</div>
+    </div>
+    <div class="call">
+        <div>Call Us</div>
+        <div>Free Call: 123-123-123-123</div>
+        <div>Tel: 08-6666666</div>
+        <div>Fax: 08-6888888</div>
+    </div>
+</div>
+
+</body>
+<script>
+    var form = document.getElementById('contact_form');
+
+    function alertMessage() {
+        if (form.checkValidity()) {
+            alert("Thank you for contacting us!");
+        }
+    }
+</script>
+
+
+<script>
+    function myFunction() {
+        var x = document.getElementById("nav_top");
+        // document.getElementById("nav_top").style.width = "200px";
+        if (x.className === "nav_bar") {
+            x.className += " responsive";
+        } else {
+            x.className = "nav_bar";
+        }
+    }
+</script>
+</html>

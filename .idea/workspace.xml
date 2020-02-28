@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e53987e0-91fc-443d-81fc-2d7f1265cef4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HCIServer/desktop/reviews.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="66" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HCIServer/desktop/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HCIServer/desktop/app/games-list/games-list.module.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HCIServer/desktop/app/games-list/games-list.component.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HCIServer/desktop/app/games-list/games-list.template.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="3" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HCIServer/desktop/css/styling.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="214" lean-forward="true" selection-start-line="214" selection-end-line="214" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HCIServer/desktop/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="867">
+              <caret line="51" column="2" selection-start-line="51" selection-start-column="2" selection-end-line="51" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HCIServer/desktop/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="850">
+              <caret line="50" column="10" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HCIServer/README.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="37" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HCIServer/data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Python Script" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>rad</find>
+      <find>CommentController</find>
+      <find>comm</find>
+      <find>about_top</find>
+      <find>about_content</find>
+      <find>about_box</find>
+      <find>founders_box</find>
+      <find>games_list</find>
+      <find>game_image</find>
+      <find>img_details</find>
+      <find>game_details</find>
+      <find>contact_content</find>
+      <find>address</find>
+      <find>call</find>
+      <find>homepage_top</find>
+      <find>search_item</find>
+      <find>icon</find>
+      <find>commen</find>
+      <find>plat</find>
+      <find>search_input</find>
+      <find>just</find>
+      <find>grid</find>
+      <find>server</find>
+      <find>search</find>
+      <find>left:</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/HCIServer/README.txt" />
+        <option value="$PROJECT_DIR$/HCIServer/desktop/app/games/games-list.template.html" />
+        <option value="$PROJECT_DIR$/HCIServer/desktop/app/games/games-list.module.js" />
+        <option value="$PROJECT_DIR$/HCIServer/desktop/app/games/games-list.component.js" />
+        <option value="$PROJECT_DIR$/HCIServer/desktop/results.html" />
+        <option value="$PROJECT_DIR$/HCIServer/desktop/app/comments-list/comments-list.module.js" />
+        <option value="$PROJECT_DIR$/HCIServer/desktop/app/comments-list/comments-list.template.html" />
+        <option value="$PROJECT_DIR$/HCIServer/desktop/app/comments-list/comments-list.component.js" />
+        <option value="$PROJECT_DIR$/HCIServer/desktop/app/searchName-list/searchName.template.html" />
+        <option value="$PROJECT_DIR$/HCIServer/desktop/app/searchName/searchName.module.js" />
+        <option value="$PROJECT_DIR$/HCIServer/desktop/app/searchName/searchName.component.js" />
+        <option value="$PROJECT_DIR$/HCIServer/desktop/app/searchName/searchName.template.html" />
+        <option value="$PROJECT_DIR$/HCIServer/mobile/index.html" />
+        <option value="$PROJECT_DIR$/HCIServer/desktop/app/app.module.js" />
+        <option value="$PROJECT_DIR$/HCIServer/mobile/css/styling.css" />
+        <option value="$PROJECT_DIR$/HCIServer/mobile/app/games-list/games-list.component.js" />
+        <option value="$PROJECT_DIR$/HCIServer/mobile/app/games-list/games-list.template.html" />
+        <option value="$PROJECT_DIR$/HCIServer/desktop/about.html" />
+        <option value="$PROJECT_DIR$/HCIServer/desktop/index.html" />
+        <option value="$PROJECT_DIR$/HCIServer/desktop/contact.html" />
+        <option value="$PROJECT_DIR$/HCIServer/additional_resources.txt" />
+        <option value="$PROJECT_DIR$/HCIServer/desktop/reviews.html" />
+        <option value="$PROJECT_DIR$/HCIServer/data.py" />
+        <option value="$PROJECT_DIR$/HCIServer/desktop/app/games-list/games-list.component.js" />
+        <option value="$PROJECT_DIR$/HCIServer/desktop/app/games-list/games-list.template.html" />
+        <option value="$PROJECT_DIR$/HCIServer/desktop/css/styling.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-15" />
+    <option name="y" value="-15" />
+    <option name="width" value="1947" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="minshakey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="minshakey" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="minshakey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="minshakey" type="462c0819:PsiDirectoryNode" />
+              <item name="HCIServer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\NOA\minshakey\HCIServer\desktop\css" />
+      <recent name="C:\Users\NOA\minshakey\HCIServer\shared\images" />
+      <recent name="C:\Users\NOA\minshakey\HCIServer\desktop\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\NOA\minshakey\HCIServer\mobile" />
+      <recent name="C:\Users\NOA\minshakey\HCIServer\desktop" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e53987e0-91fc-443d-81fc-2d7f1265cef4" name="Default Changelist" comment="" />
+      <created>1558884192267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558884192267</updated>
+      <workItem from="1558884194821" duration="961000" />
+      <workItem from="1558885438115" duration="13663000" />
+      <workItem from="1558966979372" duration="39457000" />
+      <workItem from="1559058671464" duration="1554000" />
+      <workItem from="1559061633521" duration="1588000" />
+      <workItem from="1559070212459" duration="612000" />
+      <workItem from="1559070858888" duration="11969000" />
+      <workItem from="1559086735897" duration="2732000" />
+      <workItem from="1559134082867" duration="20788000" />
+      <workItem from="1559238873605" duration="25496000" />
+      <workItem from="1559329870050" duration="7738000" />
+      <workItem from="1559340025974" duration="2142000" />
+      <workItem from="1559342196416" duration="296000" />
+      <workItem from="1559343320837" duration="3982000" />
+      <workItem from="1559377927357" duration="635000" />
+      <workItem from="1559467377494" duration="8283000" />
+      <workItem from="1559997674175" duration="6695000" />
+      <workItem from="1560187559674" duration="621000" />
+      <workItem from="1560194351288" duration="5049000" />
+      <workItem from="1560258455904" duration="620000" />
+      <workItem from="1560422560664" duration="133000" />
+      <workItem from="1560871245729" duration="1349000" />
+      <workItem from="1573490185413" duration="2258000" />
+      <workItem from="1573571030054" duration="675000" />
+      <workItem from="1573916828236" duration="8456000" />
+      <workItem from="1575737478441" duration="26000" />
+      <workItem from="1580228521796" duration="6464000" />
+      <workItem from="1582480199937" duration="31000" />
+      <workItem from="1582898014816" duration="833000" />
+      <workItem from="1582899339182" duration="146000" />
+    </task>
+    <task id="LOCAL-00001" summary="nop">
+      <created>1582899362429</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582899362429</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="175252000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2534413" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32817337" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.055555556" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="nop" />
+    <option name="LAST_COMMIT_MESSAGE" value="nop" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/HCIServer/shared/images/Call_of_duty.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCIServer/desktop/js/example.js" />
+    <entry file="file://$PROJECT_DIR$/HCIServer/desktop/css/example-style.css" />
+    <entry file="file://$PROJECT_DIR$/HCIServer/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCIServer/shared/js/scroll-to-top.js" />
+    <entry file="file://$PROJECT_DIR$/HCIServer/shared/css/scroll-to-top.css" />
+    <entry file="file://$PROJECT_DIR$/HCIServer/shared/images/Crysis.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCIServer/shared/images/Tekken.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCIServer/shared/images/Need_for_speed.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCIServer/shared/images/The_last_of_us.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCIServer/shared/images/Fortnite.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCIServer/shared/images/God_of_war.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCIServer/shared/images/GTA.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCIServer/shared/images/Pro_evolution.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCIServer/shared/js/angular.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCIServer/desktop/app/comments-list/comments-list.module.js" />
+    <entry file="file://$PROJECT_DIR$/HCIServer/desktop/app/comments-list/comments-list.component.js" />
+    <entry file="file://$PROJECT_DIR$/HCIServer/desktop/app/comments-list/comments-list.template.html" />
+    <entry file="file://$PROJECT_DIR$/HCIServer/desktop/results.html" />
+    <entry file="file://$PROJECT_DIR$/HCIServer/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCIServer/desktop/app/searchName-list/searchName.template.html" />
+    <entry file="file://$PROJECT_DIR$/HCIServer/desktop/app/example-list/example-list.module.js" />
+    <entry file="file://$PROJECT_DIR$/HCIServer/desktop/app/example-list/example-list.component.js" />
+    <entry file="file://$PROJECT_DIR$/HCIServer/desktop/app/searchName/searchName.module.js" />
+    <entry file="file://$PROJECT_DIR$/HCIServer/desktop/app/example-list/example-list.template.html" />
+    <entry file="file://$PROJECT_DIR$/HCIServer/desktop/app/searchName/searchName.template.html" />
+    <entry file="file://$PROJECT_DIR$/HCIServer/desktop/app/searchName/searchName.component.js" />
+    <entry file="file://$PROJECT_DIR$/HCIServer/desktop/example.html" />
+    <entry file="file://$PROJECT_DIR$/HCIServer/desktop/css/icon.ico" />
+    <entry file="file://$PROJECT_DIR$/HCIServer/mobile/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCIServer/mobile/css/styling.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="464" column="18" selection-start-line="464" selection-start-column="18" selection-end-line="464" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCIServer/mobile/app/games-list/games-list.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCIServer/mobile/app/games-list/games-list.template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python37/Lib/socketserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="315" selection-start-line="315" selection-end-line="315" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCIServer/shared/images/aussi.jpg" />
+    <entry file="file://$PROJECT_DIR$/HCIServer/shared/images/cavalier.jpg" />
+    <entry file="file://$PROJECT_DIR$/HCIServer/README - updated.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-885" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCIServer/mobile/app/games-list/games-list.module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCIServer/additional_resources.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCIServer/desktop/app/app.module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCIServer/handler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCIServer/desktop/reviews.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="66" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCIServer/desktop/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCIServer/desktop/app/games-list/games-list.module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCIServer/desktop/app/games-list/games-list.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCIServer/desktop/app/games-list/games-list.template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="3" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCIServer/desktop/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="2" selection-start-line="51" selection-start-column="2" selection-end-line="51" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCIServer/desktop/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" column="10" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCIServer/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCIServer/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCIServer/desktop/css/styling.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="214" lean-forward="true" selection-start-line="214" selection-end-line="214" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

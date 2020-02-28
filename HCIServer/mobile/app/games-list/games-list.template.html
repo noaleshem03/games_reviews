@@ -1,0 +1,48 @@
+<div class="search_item">
+    <div class="search_input">
+        <label class="hidden_mobile" for="search">Search:</label>
+        <input type="text" id="search" ng-model='searchText'>
+    </div>
+    <div class="filter_games">
+        <span class="hidden_mobile">Sort:</span>
+        <input type='radio' name='filter' ng-click="orderByMe('name')" id="name"/>
+        <label for='name'>Name</label>
+        <input type='radio' name='filter' ng-click="orderByMe('-rating')" id="rating"/>
+        <label for='rating'>Rating</label>
+    </div>
+</div>
+<div class="games_list">
+    <div class="game_single" ng-repeat='item in $ctrl.list | filter:searchText | orderBy:myOrderBy'>
+        <div class="img_details">
+            <div class="game_image">
+                <img ng-src="{{item.imageUrl}}" alt="{{item.name}}"/>
+            </div>
+            <div class="game_details">
+                <div><strong>{{item.name}}</strong></div>
+                <div>Category: {{item.category}}</div>
+                <div>Platform: {{item.platform}}</div>
+                <div class="rating_area">
+                    <div class="rating">
+                        <div>{{item.rating}}</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="user_comments">
+            <form>
+                <div class="user_input">
+            <textarea id="comment_area" ng-model="comment"
+                      placeholder="Your Comment..."></textarea>
+                    <button id="comment_btn" ng-click="post(item.id, comment)">Comment</button>
+                </div>
+                <div class="user_output">
+                    <h3>Comments</h3>
+                    <div ng-repeat="cmt in $ctrl.list[item.id].comments">
+                        <div>{{cmt}}</div>
+                        <hr>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

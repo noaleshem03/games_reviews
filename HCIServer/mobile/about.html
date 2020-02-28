@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html ng-app="gamesApp">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ReGames</title>
+    <link rel="stylesheet" type="text/css" href="css/styling.css">
+    <link href="https://fonts.googleapis.com/css?family=Play&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
+          integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+    <script src="/shared/js/angular.min.js"></script>
+    <script src="app/app.module.js"></script>
+    <script src="app/games-list/games-list.module.js"></script>
+    <script src="app/games-list/games-list.component.js"></script>
+</head>
+
+<body>
+<div class="nav_bar" id="nav_top">
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()"><i class="fa fa-bars"></i></a>
+    <a href="index.html">Home</a>
+    <a class="active" href="about.html">About</a>
+    <a href="reviews.html">Game Reviews</a>
+    <a href="contact.html">Contact Us</a>
+</div>
+<div class="about_top">
+    <strong>About</strong>
+</div>
+
+<div class="about_content">
+    <div class="about_box">
+        For over 20 years, We at ReGames has been the most well-known video game community and it is made up of a
+        hard-working team of expert gamers on staff as well as millions of visitors around the world who contribute
+        their
+        knowledge and experiences on a daily basis.
+    </div>
+    <div class="founders_box">
+        <div><strong>Our Founders</strong></div>
+        <div class="founders">
+            <div class="founder">
+                <img src="images/amir.jpg">
+                <div>Amir Izhaky</div>
+            </div>
+            <div class="founder">
+                <img src="images/noa.jpg">
+                <div>Noa Leshem</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+<script>
+    function myFunction() {
+        var x = document.getElementById("nav_top");
+        // document.getElementById("nav_top").style.width = "200px";
+        if (x.className === "nav_bar") {
+            x.className += " responsive";
+        } else {
+            x.className = "nav_bar";
+        }
+    }
+</script>
+</html>

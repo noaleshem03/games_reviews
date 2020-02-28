@@ -1,0 +1,12 @@
+For the menu bar that turns to icon with smaller menu while opening the website in mobile
+we were helped by w3schools.com and took some ideas from there.
+For sorting the items we also used w3schools.com
+For the alert message when users contact us, we used some examples from Stack Overflow.
+For user comments we used several examples from google, the main was a video from Youtube
+For turing to mobile we used @media query and we were helped by w3schools.com
+
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_topnav
+https://www.w3schools.com/angular/ng_filter_orderby.asp
+https://stackoverflow.com/questions/33198552/alert-message-will-show-up-after-the-submission
+https://www.youtube.com/watch?v=QRXop_fLAfg
+https://www.w3schools.com/cssref/css3_pr_mediaquery.asp

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html ng-app="gamesApp">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ReGames</title>
+    <link rel="stylesheet" type="text/css" href="css/styling.css">
+    <link href="https://fonts.googleapis.com/css?family=Play&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
+          integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+    <script src="/shared/js/angular.min.js"></script>
+    <script src="app/app.module.js"></script>
+    <script src="app/games-list/games-list.module.js"></script>
+    <script src="app/games-list/games-list.component.js"></script>
+</head>
+
+<body>
+<div class="nav_bar" id="nav_top">
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()"><i class="fa fa-bars"></i></a>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a class="active" href="reviews.html">Game Reviews</a>
+    <a href="contact.html">Contact Us</a>
+</div>
+<div class="reviews_top">
+    <strong>Game Reviews</strong>
+</div>
+
+<games-list></games-list>
+
+</body>
+<script>
+    function myFunction() {
+        var x = document.getElementById("nav_top");
+        // document.getElementById("nav_top").style.width = "200px";
+        if (x.className === "nav_bar") {
+            x.className += " responsive";
+        } else {
+            x.className = "nav_bar";
+        }
+    }
+</script>
+</html>
